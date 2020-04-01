@@ -49,3 +49,11 @@ button{
     margin-top: 1%;
     border-radius: 15px;
 }
+footer{
+    background-color: black;
+    padding-top 2%;
+    padding-bottom: 2%;
+}
+footer p{
+    color: white;
+}
