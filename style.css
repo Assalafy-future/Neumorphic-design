@@ -49,13 +49,8 @@ button{
     margin-top: 1%;
     border-radius: 15px;
 }
-footer{
-    background-color: black;
-    padding-top 2%;
-    padding-bottom: 2%;
-    margin-top: 2.5%;
-}
-footer p{
-    color: white;
-    font-family: Verdana;
+@media (max-width: 1000px) {
+    .container{
+        width: 380px;
+    }
 }
