@@ -41,7 +41,7 @@ body{
     box-shadow: inset 8px 8px 8px #cbced1,
                 inset -8px -8px 8px lavender;
 }
-button{
+.submit{
     background-color: beige;
     width: 35%;
     height: 35px;
